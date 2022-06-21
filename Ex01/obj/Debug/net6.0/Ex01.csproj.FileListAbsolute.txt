@@ -1,0 +1,15 @@
+/Users/elenakandaurova/Desktop/Projects/Examples/Ex01/bin/Debug/net6.0/Ex01
+/Users/elenakandaurova/Desktop/Projects/Examples/Ex01/bin/Debug/net6.0/Ex01.deps.json
+/Users/elenakandaurova/Desktop/Projects/Examples/Ex01/bin/Debug/net6.0/Ex01.runtimeconfig.json
+/Users/elenakandaurova/Desktop/Projects/Examples/Ex01/bin/Debug/net6.0/Ex01.dll
+/Users/elenakandaurova/Desktop/Projects/Examples/Ex01/bin/Debug/net6.0/Ex01.pdb
+/Users/elenakandaurova/Desktop/Projects/Examples/Ex01/obj/Debug/net6.0/Ex01.csproj.AssemblyReference.cache
+/Users/elenakandaurova/Desktop/Projects/Examples/Ex01/obj/Debug/net6.0/Ex01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elenakandaurova/Desktop/Projects/Examples/Ex01/obj/Debug/net6.0/Ex01.AssemblyInfoInputs.cache
+/Users/elenakandaurova/Desktop/Projects/Examples/Ex01/obj/Debug/net6.0/Ex01.AssemblyInfo.cs
+/Users/elenakandaurova/Desktop/Projects/Examples/Ex01/obj/Debug/net6.0/Ex01.csproj.CoreCompileInputs.cache
+/Users/elenakandaurova/Desktop/Projects/Examples/Ex01/obj/Debug/net6.0/Ex01.dll
+/Users/elenakandaurova/Desktop/Projects/Examples/Ex01/obj/Debug/net6.0/refint/Ex01.dll
+/Users/elenakandaurova/Desktop/Projects/Examples/Ex01/obj/Debug/net6.0/Ex01.pdb
+/Users/elenakandaurova/Desktop/Projects/Examples/Ex01/obj/Debug/net6.0/Ex01.genruntimeconfig.cache
+/Users/elenakandaurova/Desktop/Projects/Examples/Ex01/obj/Debug/net6.0/ref/Ex01.dll
